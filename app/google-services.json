@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1017661215847",
+    "project_id": "fir-example-dieg0code",
+    "storage_bucket": "fir-example-dieg0code.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017661215847:android:1de3a15b553baa6f43f0c2",
+        "android_client_info": {
+          "package_name": "com.dieg0code.firebaseexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017661215847-cc57nclhfm28oh85jks10bf0ueu86beg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAil89pTCZ0mtihDZJi4E3_KTd-NXiacvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017661215847-cc57nclhfm28oh85jks10bf0ueu86beg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
